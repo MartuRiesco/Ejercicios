@@ -1,0 +1,35 @@
+[
+    {   "id":1,
+        "depth": "3",
+        "time": "1",
+        "oxygenStart": "5",
+        "oxygenEnd": "4",
+        "location": "rio",
+        "date": "1054-01-10",
+        "outsideTemperature": "1",
+        "waterTemperature": "-4",
+        "description": "rio"
+    }, {
+        "id":2,
+        "depth": "3",
+        "time": "1",
+        "oxygenStart": "5",
+        "oxygenEnd": "4",
+        "location": "rio",
+        "date": "1054-01-10",
+        "outsideTemperature": "1",
+        "waterTemperature": "-4",
+        "description": "rio"
+    }, {
+        "id":3,
+        "depth": "3",
+        "time": "1",
+        "oxygenStart": "5",
+        "oxygenEnd": "4",
+        "location": "rio",
+        "date": "1054-01-10",
+        "outsideTemperature": "1",
+        "waterTemperature": "-4",
+        "description": "rio"
+    }
+]
